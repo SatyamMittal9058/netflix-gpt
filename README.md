@@ -18,6 +18,11 @@
  - Create movieSlice 
  - update store with movie data and trailer data
  - Embedded the youtube video
+ - Secondary Container
+ - MovieList and MovieCard 
+ - Fetch data for all different list 
+ - using Custom hook for all different lists
+ 
 
 
 # Features 
