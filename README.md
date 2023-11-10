@@ -12,6 +12,12 @@
  - Update profile
  - created redux store with userSlice
  - Add hardcoded file to constant.js file
+ - Register TMDB API & create an APP & get acccess token
+ - GET data from TMDB now playing movies list API
+ - Custom Hook for NowPlaying and MovieTrailer
+ - Create movieSlice 
+ - update store with movie data and trailer data
+ - Embedded the youtube video
 
 
 # Features 
