@@ -10,10 +10,8 @@ const MainContainer=()=>{
     // console.log(mainMovie);
     return (
         <div>
-
             <VideoTitle title={original_title} overview={overview}/>
             <VideoBack movieId={id}/>
-
         </div>
     )
 }
