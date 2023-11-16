@@ -24,7 +24,9 @@
  - using Custom hook for all different lists
  - gpt search page 
  - gpt search bar
- 
+ - multilingual features in app
+
+
 
 
 # Features 
