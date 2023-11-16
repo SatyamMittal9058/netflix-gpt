@@ -22,6 +22,8 @@
  - MovieList and MovieCard 
  - Fetch data for all different list 
  - using Custom hook for all different lists
+ - gpt search page 
+ - gpt search bar
  
 
 

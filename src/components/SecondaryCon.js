@@ -9,9 +9,9 @@ const SecondaryCon = () => {
     <div className="bg-black">
       <div className="-mt-52 pl-6 relative z-20">
         <MovieList title={"Now Playing"} movies={movies?.nowPlaying}/>
-        <MovieList title={"Trending"} movies={movies?.nowPlaying}/>
+        <MovieList title={"Top Rated"} movies={movies?.topRated}/>
         <MovieList title={"Popular"} movies={movies?.popularPlaying}/>
-        <MovieList title={"Hindi"} movies={movies?.nowPlaying}/>
+        <MovieList title={"Upcoming"} movies={movies?.upcomingMovie}/>
       </div>
     </div>
   )
