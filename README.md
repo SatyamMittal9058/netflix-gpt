@@ -25,6 +25,8 @@
  - gpt search page 
  - gpt search bar
  - multilingual features in app
+ - Added .env file
+ - Adding .env file to gitignore
 
 
 

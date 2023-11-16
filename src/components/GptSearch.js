@@ -5,7 +5,7 @@ import Gptbar from "./Gptbar";
 
 const GptSearch=()=>{
     return (
-        <div>
+        <div className="pt-[2 0%]">
             <div className="fixed -z-10">
                 <img src={BG_IMG_URL} alt="logo" />
             </div>
